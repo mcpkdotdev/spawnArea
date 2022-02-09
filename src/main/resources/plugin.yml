@@ -1,0 +1,6 @@
+name: SpawnArea
+version: '${project.version}'
+main: com.mcpkdot.spawnarea.SpawnArea
+api-version: 1.17
+authors: [ mcpkdot ]
+description: spawn area

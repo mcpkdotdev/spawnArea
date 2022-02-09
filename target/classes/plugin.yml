@@ -1,0 +1,6 @@
+name: SpawnArea
+version: '1.0-SNAPSHOT'
+main: com.mcpkdot.spawnarea.SpawnArea
+api-version: 1.17
+authors: [ mcpkdot ]
+description: spawn area
